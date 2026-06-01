@@ -1,19 +1,20 @@
-.oddnumber{
-    background-color:pink;
-    font-family: Verdana, Dejavu sans, sans-serif;
+.odd {
+    color: black;
+    background-color: pink;
+    text-align: left;
+    font-family: verdana,DejaVu,sans-serif;
 }
 
-#Number2{
-    color: #000ff0;
+.second {
+    color: blue;
     font-size: 36px;
 }
 
-.nu3{
-    font-size: 24px;
+.fourth {
+    background-color: lightgreen;
+    font-weight: bold;
 }
 
-#Number4{
-    background-color: lightgreen;
+.adjust-font-size{
     font-size: 24px;
-    font-weight: bold;
 }
