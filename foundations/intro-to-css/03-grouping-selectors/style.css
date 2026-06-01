@@ -4,12 +4,13 @@
 }
 
 .first{
-    background-color: rgb(128, 126, 0);
+    background-color: black;
+    color: white;
 }
 
 .second{
-    background-color: black;
-    color: white;
+    background-color: rgb(128, 126, 0);
+    color: black;
 }
 
 .first,
